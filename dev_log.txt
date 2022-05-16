@@ -1,0 +1,122 @@
+commit d571d0981d5fb64cdec69575e1dc74d242b01452
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Sun Jan 17 18:46:07 2021 +0100
+
+    suppression fichier obsolete
+
+commit b8eede84a092b75bb76aa0977951a9b5b517d764
+Merge: d9e967f 1b1c476
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Sun Jan 17 18:41:28 2021 +0100
+
+    Merge branch 'master' of https://git-etud.u-pem.fr/projet-l3-s1
+
+commit 1b1c4761d850a7624f5c9780276d7ea721a202b3
+Author: Hugo Attal <hugoattal@MacBook-Air-de-Hugo.local>
+Date:   Sun Jan 17 18:38:25 2021 +0100
+
+    ajout makefile
+
+commit d9e967f2204d4b9a2324ac606f629cbf4866717c
+Merge: 5cf40b4 dc55a6b
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Sun Jan 17 18:37:56 2021 +0100
+
+    Merge branch 'master' of https://git-etud.u-pem.fr/projet-l3-s1
+
+commit dc55a6b5e180adc4de255f5ddbb7e628e6c188f9
+Author: Hugo Attal <hugoattal@MacBook-Air-de-Hugo.local>
+Date:   Sun Jan 17 18:35:56 2021 +0100
+
+    ajout du dossier doc
+
+commit 5cf40b43385b7b13ac265673ff85f2aaa5ebe43e
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Sun Jan 17 18:35:08 2021 +0100
+
+    modification affichage.c
+
+commit 66d8b5bea9bc03135158a3628b1f74df4afa6346
+Author: Hugo Attal <hugoattal@MacBook-Air-de-Hugo.local>
+Date:   Sun Jan 17 18:33:34 2021 +0100
+
+    ajout approximation.c
+
+commit 18cefcc635c13a872b8b72404dcaa13aa03b77c4
+Author: Hugo Attal <hugoattal@MacBook-Air-de-Hugo.local>
+Date:   Sun Jan 17 18:32:40 2021 +0100
+
+    ajout main.c
+
+commit 951c1200776022e35c08087c75bd58ef578ac6bc
+Author: Hugo Attal <hugoattal@MacBook-Air-de-Hugo.local>
+Date:   Sun Jan 17 18:31:51 2021 +0100
+
+    ajout minimisation.c
+
+commit e57e753f3179a8d5ae9be0872a147e60175ab480
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Sun Jan 17 18:07:41 2021 +0100
+
+    ajout de sauvegarde.c
+
+commit 8a5d91533b0461951a2db8257a63dd69acbdf039
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Sun Jan 17 17:45:43 2021 +0100
+
+    ajout du fichier src/include/projet.h
+
+commit 97be60ee54304da417140fd5e0ff261bb5ad453f
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Mon Jan 11 23:03:24 2021 +0100
+
+    suppression affiche_approximation.c
+
+commit e6c4b75af326db34680fab75096231827dd05893
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Mon Jan 11 22:26:42 2021 +0100
+
+    test suppression de test.txt
+
+commit 1ade90cc7ee71f67a781a47c61650aede0e850f0
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Mon Jan 11 22:21:49 2021 +0100
+
+    approximation.c déplacer dans le fichier src
+
+commit 5990663a228e2b32e31088a584c6d22b5fd3e039
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Mon Jan 11 22:17:38 2021 +0100
+
+    Ajout du dossier contenant les images
+
+commit a333343943becce3ab2691ae4d4e651241678bed
+Merge: c7300da 8fbdcc8
+Author: Hugo Attal <hugoattal@macbook-air-de-hugo.home>
+Date:   Mon Jan 11 22:02:23 2021 +0100
+
+    changement de la fonction affichage et rajout d'options de clic dans le main
+
+commit c7300da4f866a21c72c6842d7f3ba5a575728740
+Author: Hugo Attal <hugoattal@macbook-air-de-hugo.home>
+Date:   Mon Jan 11 21:47:09 2021 +0100
+
+    ajout d'une fonction affiche menu et de differentes options de clic
+
+commit 8fbdcc8999ea0a81b8815f0f2d21fb1ec02eded9
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Wed Jan 6 20:06:07 2021 +0100
+
+    Update de main
+
+commit 58cbf65ff24c642537b01b581cb3ba5794cee0d5
+Author: Corentin <crufo@etud.u-pem.fr>
+Date:   Wed Jan 6 17:34:18 2021 +0100
+
+    test
+
+commit 1e1efcf622d5c10000020f1817a3572eefd52b62
+Author: Hugo Attal <hugoattal@macbook-air-de-hugo.home>
+Date:   Wed Jan 6 16:28:52 2021 +0100
+
+    premier depot
